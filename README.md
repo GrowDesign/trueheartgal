@@ -1,0 +1,2 @@
+# trueheartgal
+WordPress Theme
